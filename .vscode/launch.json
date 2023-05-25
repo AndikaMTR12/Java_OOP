@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Lamdas",
+            "request": "launch",
+            "mainClass": "Lamdas",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Threads",
+            "request": "launch",
+            "mainClass": "Threads",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Regexs",
+            "request": "launch",
+            "mainClass": "Regexs",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Exceptions",
+            "request": "launch",
+            "mainClass": "Exceptions",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Wrappers",
+            "request": "launch",
+            "mainClass": "Wrappers",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Iterators",
+            "request": "launch",
+            "mainClass": "Iterators",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "HashSets",
+            "request": "launch",
+            "mainClass": "HashSets",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "HashMaps",
+            "request": "launch",
+            "mainClass": "HashMaps",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "LinkedLists",
+            "request": "launch",
+            "mainClass": "LinkedLists",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "ToDoList",
+            "request": "launch",
+            "mainClass": "ToDoList",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "DateTimes",
+            "request": "launch",
+            "mainClass": "DateTimes",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "Inputs",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Enums",
+            "request": "launch",
+            "mainClass": "Enums",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Antarmuka",
+            "request": "launch",
+            "mainClass": "Antarmuka",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abstak",
+            "request": "launch",
+            "mainClass": "Abstak",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Attribute",
+            "request": "launch",
+            "mainClass": "Attribute",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Constrak",
+            "request": "launch",
+            "mainClass": "Constrak",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Enkapsulasi",
+            "request": "launch",
+            "mainClass": "Enkapsulasi",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Kelas",
+            "request": "launch",
+            "mainClass": "Kelas",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "Method",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Modifier",
+            "request": "launch",
+            "mainClass": "Modifier",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Paket",
+            "request": "launch",
+            "mainClass": "Paket",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "Pewarisan",
+            "request": "launch",
+            "mainClass": "Pewarisan",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        },
+        {
+            "type": "java",
+            "name": "MyPackageClass",
+            "request": "launch",
+            "mainClass": "mypack.MyPackageClass",
+            "projectName": "JAVA_OOP_bf1d18e7"
+        }
+    ]
+}
